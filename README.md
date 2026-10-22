@@ -13,7 +13,7 @@
 
 ---
 
-> 🎓 **Looking for a graduation internship (PFE)** · 4 to 6 months · available from **15 January 2027** · Nabeul or Tunis, Tunisia
+
 
 I'm a third-year software engineering student at ITBS in Tunisia. I like working across the whole stack: modelling the data, building the API, and making the interface pleasant to use. I've worked with Laravel, React, Angular, Express and Spring Boot, and I'm comfortable with both SQL and NoSQL databases.
 
